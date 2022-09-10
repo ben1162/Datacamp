@@ -1,2 +1,2 @@
 # Datacamp
-The goal is to categorize video game
+the aim is to categorise video games.
